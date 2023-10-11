@@ -38,3 +38,8 @@ The dataset used is: [KITTI Visual Odometry](http://www.cvlibs.net/datasets/kitt
 3. Ensure focal length and principal point information is correct
 4. Adjust Lucas Kanade Parameters as needed
 5. Run command `python ./test.py`
+
+
+# Mason's notes
+
+The focal length for my test images is 26mm
