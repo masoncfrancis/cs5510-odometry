@@ -1,2 +1,5 @@
 videos/
 __pycache__/
+venv/
+.vscode/
+.idea/
